@@ -1,3 +1,3 @@
-localStorage.clear
+localStorage.clear()
 
 window.alert("se-fu")
